@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm yusufcanvar</h1>
-<h3 align="center">A passionate developer from istanbul</h3>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
             src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
